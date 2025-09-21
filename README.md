@@ -136,6 +136,32 @@ python Inference-whitening-pipeline.py \
   --max-images 100
 ```
 
+## Results
+
+### Before and After Comparison
+
+The following examples demonstrate the teeth whitening results achieved by our pipeline:
+
+**Original Image:**
+![Original Teeth](content/processed_data/processed_data/test/images/test_0001.jpg)
+
+**Whitened Result:**
+![Whitened Teeth](test_results/whitened_test_0001.jpg)
+
+### Additional Test Results
+
+More whitening results can be found in the `test_results/` directory, which contains processed images from the test dataset:
+
+- `test_results/whitened_test_0001.jpg` through `test_results/whitened_test_0010.jpg`
+- `test_results/whitened_test_0039.jpg`
+- `test_results/whitened_singe_test_test_0027.jpg`
+
+Each result demonstrates the model's capability to:
+- Accurately segment teeth regions
+- Apply natural-looking whitening effects
+- Preserve tooth texture and details
+- Maintain realistic appearance
+
 ## Testing and Evaluation
 
 Use the inference files for further testing and evaluation:
@@ -225,6 +251,7 @@ pip install -r requirements.txt
 ### Training Instructions
 
 **Step 1: Dataset Preparation**
+- Download the dataset from [DentalAI - Dataset Ninja](https://datasetninja.com/dentalai#download)
 - Use ```dentalai-DatasetNinja``` dir and set it as ```base_data_path``` in config.yaml if want to create a new pocessed_data
 
 **Step 2: Configuration**

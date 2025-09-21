@@ -1,0 +1,1078 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 183,
+        "width": 275
+    },
+    "objects": [
+        {
+            "id": 44651473,
+            "classId": 4668095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T14:10:30.378Z",
+            "updatedAt": "2023-09-15T14:10:30.378Z",
+            "tags": [],
+            "classTitle": "Tooth",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        109
+                    ],
+                    [
+                        116,
+                        117
+                    ],
+                    [
+                        122,
+                        117
+                    ],
+                    [
+                        131,
+                        117
+                    ],
+                    [
+                        132,
+                        115
+                    ],
+                    [
+                        132,
+                        110
+                    ],
+                    [
+                        132,
+                        107
+                    ],
+                    [
+                        132,
+                        105
+                    ],
+                    [
+                        130,
+                        107
+                    ],
+                    [
+                        119,
+                        108
+                    ],
+                    [
+                        113,
+                        108
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44651472,
+            "classId": 4668095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T14:10:30.377Z",
+            "updatedAt": "2023-09-15T14:10:30.377Z",
+            "tags": [],
+            "classTitle": "Tooth",
+            "points": {
+                "exterior": [
+                    [
+                        116,
+                        74
+                    ],
+                    [
+                        109,
+                        84
+                    ],
+                    [
+                        107,
+                        90
+                    ],
+                    [
+                        107,
+                        99
+                    ],
+                    [
+                        107,
+                        102
+                    ],
+                    [
+                        110,
+                        108
+                    ],
+                    [
+                        123,
+                        108
+                    ],
+                    [
+                        130,
+                        107
+                    ],
+                    [
+                        135,
+                        103
+                    ],
+                    [
+                        135,
+                        95
+                    ],
+                    [
+                        136,
+                        90
+                    ],
+                    [
+                        136,
+                        84
+                    ],
+                    [
+                        135,
+                        81
+                    ],
+                    [
+                        134,
+                        78
+                    ],
+                    [
+                        132,
+                        77
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44651471,
+            "classId": 4668095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T14:10:30.377Z",
+            "updatedAt": "2023-09-15T14:10:30.377Z",
+            "tags": [],
+            "classTitle": "Tooth",
+            "points": {
+                "exterior": [
+                    [
+                        165,
+                        103
+                    ],
+                    [
+                        165,
+                        103
+                    ],
+                    [
+                        168,
+                        105
+                    ],
+                    [
+                        165,
+                        114
+                    ],
+                    [
+                        166,
+                        116
+                    ],
+                    [
+                        167,
+                        116
+                    ],
+                    [
+                        173,
+                        115
+                    ],
+                    [
+                        174,
+                        114
+                    ],
+                    [
+                        174,
+                        110
+                    ],
+                    [
+                        175,
+                        107
+                    ],
+                    [
+                        176,
+                        104
+                    ],
+                    [
+                        176,
+                        103
+                    ],
+                    [
+                        174,
+                        103
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44651470,
+            "classId": 4668095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T14:10:30.376Z",
+            "updatedAt": "2023-09-15T14:10:30.376Z",
+            "tags": [],
+            "classTitle": "Tooth",
+            "points": {
+                "exterior": [
+                    [
+                        96,
+                        104
+                    ],
+                    [
+                        97,
+                        100
+                    ],
+                    [
+                        104,
+                        99
+                    ],
+                    [
+                        106,
+                        98
+                    ],
+                    [
+                        108,
+                        104
+                    ],
+                    [
+                        110,
+                        108
+                    ],
+                    [
+                        112,
+                        109
+                    ],
+                    [
+                        113,
+                        111
+                    ],
+                    [
+                        114,
+                        114
+                    ],
+                    [
+                        115,
+                        117
+                    ],
+                    [
+                        102,
+                        114
+                    ],
+                    [
+                        94,
+                        111
+                    ],
+                    [
+                        95,
+                        108
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44651469,
+            "classId": 4668095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T14:10:30.374Z",
+            "updatedAt": "2023-09-15T14:10:30.374Z",
+            "tags": [],
+            "classTitle": "Tooth",
+            "points": {
+                "exterior": [
+                    [
+                        183,
+                        80
+                    ],
+                    [
+                        184,
+                        76
+                    ],
+                    [
+                        185,
+                        71
+                    ],
+                    [
+                        187,
+                        69
+                    ],
+                    [
+                        189,
+                        69
+                    ],
+                    [
+                        193,
+                        67
+                    ],
+                    [
+                        195,
+                        69
+                    ],
+                    [
+                        196,
+                        71
+                    ],
+                    [
+                        196,
+                        78
+                    ],
+                    [
+                        196,
+                        80
+                    ],
+                    [
+                        197,
+                        87
+                    ],
+                    [
+                        197,
+                        92
+                    ],
+                    [
+                        196,
+                        97
+                    ],
+                    [
+                        193,
+                        98
+                    ],
+                    [
+                        191,
+                        99
+                    ],
+                    [
+                        186,
+                        98
+                    ],
+                    [
+                        183,
+                        95
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44651468,
+            "classId": 4668095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T14:10:30.373Z",
+            "updatedAt": "2023-09-15T14:10:30.373Z",
+            "tags": [],
+            "classTitle": "Tooth",
+            "points": {
+                "exterior": [
+                    [
+                        84,
+                        108
+                    ],
+                    [
+                        85,
+                        104
+                    ],
+                    [
+                        86,
+                        101
+                    ],
+                    [
+                        88,
+                        99
+                    ],
+                    [
+                        90,
+                        98
+                    ],
+                    [
+                        92,
+                        97
+                    ],
+                    [
+                        95,
+                        97
+                    ],
+                    [
+                        95,
+                        98
+                    ],
+                    [
+                        96,
+                        100
+                    ],
+                    [
+                        96,
+                        103
+                    ],
+                    [
+                        96,
+                        105
+                    ],
+                    [
+                        95,
+                        108
+                    ],
+                    [
+                        95,
+                        110
+                    ],
+                    [
+                        95,
+                        113
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44651467,
+            "classId": 4668095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T14:10:30.372Z",
+            "updatedAt": "2023-09-15T14:10:30.372Z",
+            "tags": [],
+            "classTitle": "Tooth",
+            "points": {
+                "exterior": [
+                    [
+                        164,
+                        86
+                    ],
+                    [
+                        164,
+                        96
+                    ],
+                    [
+                        164,
+                        103
+                    ],
+                    [
+                        169,
+                        103
+                    ],
+                    [
+                        175,
+                        103
+                    ],
+                    [
+                        181,
+                        99
+                    ],
+                    [
+                        183,
+                        96
+                    ],
+                    [
+                        183,
+                        82
+                    ],
+                    [
+                        182,
+                        79
+                    ],
+                    [
+                        180,
+                        77
+                    ],
+                    [
+                        177,
+                        73
+                    ],
+                    [
+                        172,
+                        72
+                    ],
+                    [
+                        167,
+                        74
+                    ],
+                    [
+                        165,
+                        78
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44651466,
+            "classId": 4668095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T14:10:30.371Z",
+            "updatedAt": "2023-09-15T14:10:30.371Z",
+            "tags": [],
+            "classTitle": "Tooth",
+            "points": {
+                "exterior": [
+                    [
+                        76,
+                        74
+                    ],
+                    [
+                        76,
+                        82
+                    ],
+                    [
+                        76,
+                        86
+                    ],
+                    [
+                        75,
+                        90
+                    ],
+                    [
+                        77,
+                        94
+                    ],
+                    [
+                        79,
+                        101
+                    ],
+                    [
+                        84,
+                        100
+                    ],
+                    [
+                        91,
+                        96
+                    ],
+                    [
+                        95,
+                        91
+                    ],
+                    [
+                        96,
+                        87
+                    ],
+                    [
+                        95,
+                        82
+                    ],
+                    [
+                        94,
+                        71
+                    ],
+                    [
+                        78,
+                        71
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44651465,
+            "classId": 4668095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T14:10:30.371Z",
+            "updatedAt": "2023-09-15T14:10:30.371Z",
+            "tags": [],
+            "classTitle": "Tooth",
+            "points": {
+                "exterior": [
+                    [
+                        147,
+                        112
+                    ],
+                    [
+                        147,
+                        115
+                    ],
+                    [
+                        148,
+                        117
+                    ],
+                    [
+                        154,
+                        117
+                    ],
+                    [
+                        158,
+                        118
+                    ],
+                    [
+                        164,
+                        117
+                    ],
+                    [
+                        165,
+                        115
+                    ],
+                    [
+                        168,
+                        106
+                    ],
+                    [
+                        168,
+                        104
+                    ],
+                    [
+                        164,
+                        104
+                    ],
+                    [
+                        162,
+                        107
+                    ],
+                    [
+                        159,
+                        110
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44651464,
+            "classId": 4668095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T14:10:30.370Z",
+            "updatedAt": "2023-09-15T14:10:30.370Z",
+            "tags": [],
+            "classTitle": "Tooth",
+            "points": {
+                "exterior": [
+                    [
+                        176,
+                        103
+                    ],
+                    [
+                        175,
+                        110
+                    ],
+                    [
+                        175,
+                        111
+                    ],
+                    [
+                        178,
+                        113
+                    ],
+                    [
+                        183,
+                        110
+                    ],
+                    [
+                        192,
+                        106
+                    ],
+                    [
+                        192,
+                        103
+                    ],
+                    [
+                        192,
+                        100
+                    ],
+                    [
+                        191,
+                        99
+                    ],
+                    [
+                        186,
+                        98
+                    ],
+                    [
+                        184,
+                        96
+                    ],
+                    [
+                        182,
+                        99
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44651463,
+            "classId": 4668095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T14:10:30.369Z",
+            "updatedAt": "2023-09-15T14:10:30.369Z",
+            "tags": [],
+            "classTitle": "Tooth",
+            "points": {
+                "exterior": [
+                    [
+                        141,
+                        79
+                    ],
+                    [
+                        137,
+                        86
+                    ],
+                    [
+                        136,
+                        90
+                    ],
+                    [
+                        135,
+                        104
+                    ],
+                    [
+                        138,
+                        110
+                    ],
+                    [
+                        141,
+                        112
+                    ],
+                    [
+                        149,
+                        112
+                    ],
+                    [
+                        157,
+                        111
+                    ],
+                    [
+                        160,
+                        109
+                    ],
+                    [
+                        163,
+                        105
+                    ],
+                    [
+                        164,
+                        99
+                    ],
+                    [
+                        163,
+                        88
+                    ],
+                    [
+                        163,
+                        84
+                    ],
+                    [
+                        161,
+                        80
+                    ],
+                    [
+                        160,
+                        76
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44651462,
+            "classId": 4668095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T14:10:30.369Z",
+            "updatedAt": "2023-09-15T14:10:30.369Z",
+            "tags": [],
+            "classTitle": "Tooth",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        74
+                    ],
+                    [
+                        198,
+                        72
+                    ],
+                    [
+                        200,
+                        70
+                    ],
+                    [
+                        204,
+                        69
+                    ],
+                    [
+                        208,
+                        70
+                    ],
+                    [
+                        210,
+                        75
+                    ],
+                    [
+                        210,
+                        82
+                    ],
+                    [
+                        208,
+                        87
+                    ],
+                    [
+                        205,
+                        92
+                    ],
+                    [
+                        203,
+                        91
+                    ],
+                    [
+                        200,
+                        89
+                    ],
+                    [
+                        197,
+                        89
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44651461,
+            "classId": 4668095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T14:10:30.368Z",
+            "updatedAt": "2023-09-15T14:10:30.368Z",
+            "tags": [],
+            "classTitle": "Tooth",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        99
+                    ],
+                    [
+                        192,
+                        100
+                    ],
+                    [
+                        192,
+                        106
+                    ],
+                    [
+                        195,
+                        104
+                    ],
+                    [
+                        199,
+                        102
+                    ],
+                    [
+                        203,
+                        99
+                    ],
+                    [
+                        205,
+                        97
+                    ],
+                    [
+                        206,
+                        95
+                    ],
+                    [
+                        206,
+                        95
+                    ],
+                    [
+                        204,
+                        92
+                    ],
+                    [
+                        201,
+                        89
+                    ],
+                    [
+                        198,
+                        90
+                    ],
+                    [
+                        198,
+                        91
+                    ],
+                    [
+                        197,
+                        96
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44651460,
+            "classId": 4668095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T14:10:30.366Z",
+            "updatedAt": "2023-09-15T14:10:30.366Z",
+            "tags": [],
+            "classTitle": "Tooth",
+            "points": {
+                "exterior": [
+                    [
+                        63,
+                        73
+                    ],
+                    [
+                        63,
+                        84
+                    ],
+                    [
+                        66,
+                        95
+                    ],
+                    [
+                        73,
+                        91
+                    ],
+                    [
+                        76,
+                        86
+                    ],
+                    [
+                        76,
+                        82
+                    ],
+                    [
+                        77,
+                        71
+                    ],
+                    [
+                        70,
+                        71
+                    ],
+                    [
+                        66,
+                        71
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44651459,
+            "classId": 4668095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T14:10:30.365Z",
+            "updatedAt": "2023-09-15T14:10:30.365Z",
+            "tags": [],
+            "classTitle": "Tooth",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        105
+                    ],
+                    [
+                        132,
+                        117
+                    ],
+                    [
+                        135,
+                        118
+                    ],
+                    [
+                        142,
+                        117
+                    ],
+                    [
+                        147,
+                        117
+                    ],
+                    [
+                        147,
+                        113
+                    ],
+                    [
+                        146,
+                        112
+                    ],
+                    [
+                        143,
+                        112
+                    ],
+                    [
+                        138,
+                        110
+                    ],
+                    [
+                        135,
+                        104
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 44651458,
+            "classId": 4668095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T14:10:30.364Z",
+            "updatedAt": "2023-09-15T14:10:30.364Z",
+            "tags": [],
+            "classTitle": "Tooth",
+            "points": {
+                "exterior": [
+                    [
+                        95,
+                        78
+                    ],
+                    [
+                        96,
+                        88
+                    ],
+                    [
+                        96,
+                        94
+                    ],
+                    [
+                        97,
+                        100
+                    ],
+                    [
+                        99,
+                        100
+                    ],
+                    [
+                        105,
+                        98
+                    ],
+                    [
+                        107,
+                        85
+                    ],
+                    [
+                        104,
+                        81
+                    ],
+                    [
+                        102,
+                        79
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

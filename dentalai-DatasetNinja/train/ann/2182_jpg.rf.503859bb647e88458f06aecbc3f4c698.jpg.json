@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 220,
+        "width": 229
+    },
+    "objects": [
+        {
+            "id": 44655638,
+            "classId": 4668095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T14:10:47.565Z",
+            "updatedAt": "2023-09-15T14:10:47.565Z",
+            "tags": [],
+            "classTitle": "Tooth",
+            "points": {
+                "exterior": [
+                    [
+                        10,
+                        49
+                    ],
+                    [
+                        30,
+                        33
+                    ],
+                    [
+                        55,
+                        24
+                    ],
+                    [
+                        81,
+                        17
+                    ],
+                    [
+                        100,
+                        7
+                    ],
+                    [
+                        120,
+                        5
+                    ],
+                    [
+                        151,
+                        12
+                    ],
+                    [
+                        173,
+                        24
+                    ],
+                    [
+                        195,
+                        39
+                    ],
+                    [
+                        213,
+                        56
+                    ],
+                    [
+                        228,
+                        69
+                    ],
+                    [
+                        228,
+                        219
+                    ],
+                    [
+                        0,
+                        219
+                    ],
+                    [
+                        0,
+                        62
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
