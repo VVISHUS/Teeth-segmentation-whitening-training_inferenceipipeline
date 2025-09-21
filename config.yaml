@@ -1,0 +1,38 @@
+# Teeth Segmentation and Whitening Pipeline Configuration
+
+# === PATHS ===
+paths:
+  base_data_path: 'content\processed_data\processed_data'  # Where dataset will be extracted
+  processed_data_path: 'content\processed_data\processed_data'  # Where to save processed data
+  model_save_dir: 'models/'  # Where to save trained models
+  results_dir: 'test_results/'  # Where to save final results
+
+# === DATASET PARAMETERS ===
+dataset:
+  target_class: 'Tooth'  # Class name to segment from JSON annotations
+  image_size: 256  # Input image size (256x256)
+
+# === TRAINING PARAMETERS ===
+training:
+  batch_size: 8  # Batch size for training
+  num_epochs: 30  # Number of training epochs
+  learning_rate: 0.0001  # Learning rate for optimizer
+  weight_decay: 0.00001  # L2 regularization
+  num_workers: 2  # Number of data loading workers
+  early_stopping_patience: 10  # Stop training if no improvement
+
+# === MODEL PARAMETERS ===
+model:
+  input_channels: 3  # RGB input
+  output_channels: 1  # Binary segmentation
+  base_features: 64  # Starting number of features in U-Net
+  use_bilinear: true  # Use bilinear upsampling vs transposed conv
+  base_channesls: 48  # Base channels for CompactAttentionUNet
+  depth: 4  # Depth of the U-Net
+  
+# === WHITENING PARAMETERS ===
+whitening:
+  lightness_increase: 40  # How much to increase brightness
+  yellowness_decrease: 25  # How much to reduce yellow tint
+  blur_kernel_size: [21, 21]  # Gaussian blur for smooth blending
+  mask_threshold: 127  # Threshold for mask binarization
